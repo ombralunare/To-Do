@@ -1,0 +1,39 @@
+* 
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: box-shadow;
+    font-family: cursive;
+    
+}
+
+.body
+{   
+    background: #f2f2f2;
+    overflow: auto;
+}
+
+h1
+{
+    text-align: center;
+    margin: 5%;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+
+ul
+{
+    text-align: 1left;
+    padding-left: 10%;
+    padding: 7%;
+    font-size: 2rem;
+    list-style: circle;
+    
+}
+
+li:hover
+{
+    color: lilac;
+    margin: 4%;
+    cursor: pointer;
+}
